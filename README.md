@@ -1,5 +1,5 @@
 # myCash
-This Repo Contain A Simple Terminal Programme Like A Mobile Financial Service.
+This Repo contains a Simple Terminal Programe Like A Mobile Financial Service.
 ## Program Features
 
 This program has some basic features:
