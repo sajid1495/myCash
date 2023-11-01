@@ -18,3 +18,11 @@ This program has some basic features:
 
 This is the first version of this project.                                      
 Exciting updates are coming with file implementation.
+
+## Update
+Version 2.0 is here.
+myCash_File contains about 600 lines of code which are fully capable of storing every data like user information, and transaction history permanently.
+This is creating a professional vibe.
+I've added a video on how and what the program works.
+Could you check it out with your valuable time?
+Thank You. :) 
